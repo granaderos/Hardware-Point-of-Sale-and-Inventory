@@ -1,0 +1,221 @@
+body {
+    width: 900px !important;
+    background: yellow;
+    margin: auto;
+}
+
+
+#products_main_div_container {
+    background: #f5f5f5;
+    width: 898px !important;
+    margin: auto;
+}
+
+#display_products_div {
+    width: 600px;
+    float: left;
+    margin: 20px;
+    border-right: 1px solid #d3d3d3;
+}
+
+#display_products_table thead {
+    position: relative;
+    display: block;
+}
+
+#display_products_table_tbody {
+    display: block;
+    overflow-y: auto;
+    height: 450px;
+    position: relative;
+}
+
+#products_to_display_loading {
+    text-align: center;
+    top: 40%;
+    margin-left: 15%;
+    z-index: 1000;
+    position: fixed;
+}
+
+#products_to_display_loading img {
+    width: 90px;
+    height: 90px;
+    margin: 0 auto;
+}
+
+#display_products_table thead th, #display_products_table_tbody td {
+    width: 140px;
+}
+
+#display_products_table tbody td + td,
+#display_products_table tbody td + td + td + td,
+#display_products_table thead th + th,
+#display_products_table thead th + th + th {
+    width: 80px;
+    text-align: center;
+}
+
+#display_products_table tbody td + td + td + td + td,
+#display_products_table thead th + th + th + th + th{
+    width: 20px;
+}
+
+#add_product_div {
+    margin-top: 50px;
+    padding: 15px;
+}
+
+#add_product_div dd {
+    text-indent: 20px;
+}
+
+.product_delete_action ul {
+    position: absolute;
+    z-index: 500;
+    visibility: hidden;
+    list-style: none;
+    border: 1px double dodgerblue;
+    width: 150px;
+}
+
+.product_delete_action:hover ul, .product_delete_action ul:hover ul {
+    visibility: visible;
+    background-color: ghostwhite;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 7px;
+    z-index: 500;
+    position: absolute;
+}
+
+.product_delete_action ul li:hover {
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+#delete_trash_icon {
+    width: 25px;
+    height: 30px;
+}
+
+#display_product_selected_letter {
+    float: right;
+}
+
+#select_stock_unit_first_option {
+    font-weight: bolder;
+}
+
+#product_actions {
+    background: #d3d3d3;
+    padding: 10px;
+}
+
+.product_warning {
+    display: none;
+}
+
+#product_overlay_div_container {
+    position: absolute;
+    left: 100%;
+    top: 100%;
+    background-color: black;
+    -moz-opacity: 0.7;
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+    text-align: center;
+    display:none;
+}
+
+#back_to_adding_product_img {
+    float: right;
+}
+
+#add_suppliers_form {
+    display: none;
+}
+
+#new_supplier_option {
+    font-weight: bold;
+    font-size: 20px;
+    background: dimgray;
+    color: #000000;
+}
+
+.complete_product_name_style {
+    position: absolute;
+    z-index: 2000;
+    background: #ffffff;
+    width: 100%;
+}
+
+/*=================== PAGINATION ================*/
+
+#pagination__products_div{
+    height: 50px;
+    background-color: rgba(0,0,0, .30);
+}
+#pagination__products_div div{
+    float:left;
+}
+#page_tracker_div{
+    text-align: center !important;
+    font-family:Arial, sans-serif;
+    font-size: 15px;
+    width: 120px !important;
+    line-height: 30px !important;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+#pagination_pager_div{
+    width: 358px;
+    height: 28px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    margin-top: 6px;
+    margin-left:0;
+    border-radius: 5px;
+}
+#pagination_pagelimiter_div{
+    width: 90px;
+    height: 35px;
+    margin-top: 5px;
+    padding-top: 4px;
+    padding-left: 15px;
+    border-left:1px solid #fff;
+}
+
+.productsDescription {
+    color: gray;
+    font-size: 11px;
+}
+
+#delete_product_confirmation_div {
+    background: #000000;
+    color: white;
+    padding: 20px;
+}
+
+#addStocksButton {
+    height: 15px;
+    width: 15px;
+    font-size: 9px;
+    padding: 0;
+}
+
+#transactionForm {
+    text-align: center;
+}
+
+#listOfProductsToBuy {
+    font-size: 11px !important;
+}
+
+#curDateTimePHolder {
+    text-align: center;
+}

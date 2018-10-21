@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dac3353c-dfdf-4854-972f-bcae8f0b0281" name="Default" comment="" />
+    <ignored path="inventory.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="inventory" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="174" column="78" selection-start="9366" selection-end="9366" vertical-scroll-proportion="-2.9423077" vertical-offset="2805" max-vertical-offset="3655">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayPager.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/sales/displayPager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="22" selection-start="142" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchTransactionRecords.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/sales/searchTransactionRecords.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="37" selection-start="176" selection-end="176" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sales.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="137" column="20" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.0" vertical-offset="2179" max-vertical-offset="2618">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/products.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="229" column="47" selection-start="10442" selection-end="10465" vertical-scroll-proportion="0.33333334" vertical-offset="3765" max-vertical-offset="6613">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/sales.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="0" selection-start="3117" selection-end="3117" vertical-scroll-proportion="-16.461538" vertical-offset="1051" max-vertical-offset="2771">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transaction.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/transaction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="327" column="49" selection-start="13852" selection-end="13852" vertical-scroll-proportion="0.0" vertical-offset="5346" max-vertical-offset="7140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transactions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/classes/Transactions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="35" selection-start="5987" selection-end="5987" vertical-scroll-proportion="-6.8461537" vertical-offset="2355" max-vertical-offset="4981">
+              <folding>
+                <marker date="1436705753952" expanded="true" signature="258:418" placeholder="SELECT produ..products..." />
+                <marker date="1436705753952" expanded="true" signature="1402:1567" placeholder="SELECT trans..sales..." />
+                <marker date="1436705753952" expanded="true" signature="2093:2316" placeholder="UPDATE produ..." />
+                <marker date="1436705753952" expanded="true" signature="2619:2673" placeholder="INSERT INTO ..." />
+                <marker date="1436705753952" expanded="true" signature="2873:2934" placeholder="INSERT INTO ..." />
+                <marker date="1436705753952" expanded="true" signature="3192:3323" placeholder="UPDATE trans..." />
+                <marker date="1436705753952" expanded="true" signature="3701:3877" placeholder="SELECT DISTI..sales..." />
+                <marker date="1436705753952" expanded="true" signature="4111:4484" placeholder="SELECT p.pro..products..." />
+                <marker date="1436705753952" expanded="true" signature="5727:5892" placeholder="SELECT COUNT..sales..." />
+                <marker date="1436705753952" expanded="true" signature="7506:7918" placeholder="SELECT month..." />
+                <marker date="1436705753952" expanded="true" signature="8508:8807" placeholder="SELECT DISTI..sales..." />
+                <marker date="1436705753952" expanded="true" signature="9129:9712" placeholder="SELECT t.tra..employees..." />
+                <marker date="1436705753952" expanded="true" signature="11318:11377" placeholder="SELECT produ..products..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transaction_page.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/transaction_page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="18" selection-start="1969" selection-end="1969" vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="3315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsFunctions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="105" column="29" selection-start="6570" selection-end="6570" vertical-scroll-proportion="0.0" vertical-offset="1541" max-vertical-offset="2601">
+              <folding>
+                <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+                <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+                <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+                <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+                <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+                <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+                <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+                <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+                <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/php/Database_connection.php" />
+        <option value="$PROJECT_DIR$/php/classes/ProductFunctions.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/updateProductsInfo.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/showCompleteProductName.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/retrieveProductData.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/deleteProduct.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/checkBarCode.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/displayProductsBySelectLetter.php" />
+        <option value="$PROJECT_DIR$/inventory.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/displayProducts.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/searchProduct.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/checkIfProductToAddAlreadyExist.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/retrieveProductTotalPages.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/addStocks.php" />
+        <option value="$PROJECT_DIR$/php/objects/products/addProduct.php" />
+        <option value="$PROJECT_DIR$/php/classes/DatabaseConnection.php" />
+        <option value="$PROJECT_DIR$/php/objects/transaction/saveTransaction.php" />
+        <option value="$PROJECT_DIR$/css/sales.css" />
+        <option value="$PROJECT_DIR$/php/classes/Sales.php" />
+        <option value="$PROJECT_DIR$/php/objects/sales/displayTransactionRecords.php" />
+        <option value="$PROJECT_DIR$/php/objects/sales/getMonthlySales.php" />
+        <option value="$PROJECT_DIR$/php/objects/transaction/retrieveProducts.php" />
+        <option value="$PROJECT_DIR$/php/objects/transaction/getProduct.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/php/classes/ProductsFunctions.php" />
+        <option value="$PROJECT_DIR$/css/product_page.css" />
+        <option value="$PROJECT_DIR$/css/transaction_page.css" />
+        <option value="$PROJECT_DIR$/javascript/transaction.js" />
+        <option value="$PROJECT_DIR$/php/objects/sales/searchTransactionRecords.php" />
+        <option value="$PROJECT_DIR$/javascript/products.js" />
+        <option value="$PROJECT_DIR$/php/objects/sales/displayPager.php" />
+        <option value="$PROJECT_DIR$/php/classes/Transactions.php" />
+        <option value="$PROJECT_DIR$/javascript/sales.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="576" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transaction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\inventory\php\objects\sales" />
+      <recent name="C:\xampp\htdocs\inventory\php\classes" />
+      <recent name="C:\xampp\htdocs\inventory\css" />
+      <recent name="C:\xampp\htdocs\inventory\javascript" />
+      <recent name="C:\xampp\htdocs\inventory\php\objects\transaction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\inventory\php\classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dac3353c-dfdf-4854-972f-bcae8f0b0281" name="Default" comment="" />
+      <created>1435722082139</created>
+      <updated>1435722082139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="576" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/product_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="17" selection-start="3675" selection-end="3675" vertical-scroll-proportion="0.0" vertical-offset="3419" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="29" selection-start="6570" selection-end="6570" vertical-scroll-proportion="0.0" vertical-offset="1541" max-vertical-offset="2601">
+          <folding>
+            <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+            <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+            <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+            <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+            <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="16" selection-start="8723" selection-end="8723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6001">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="130" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="2584">
+          <folding>
+            <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+            <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+            <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+            <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+            <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/addProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="96" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/product_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="21" selection-start="3693" selection-end="3693" vertical-scroll-proportion="0.0" vertical-offset="3113" max-vertical-offset="3587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="62" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5661">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/searchProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="59" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="53" selection-start="3044" selection-end="3044" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2652">
+          <folding>
+            <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+            <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+            <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+            <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+            <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/product_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="17" selection-start="3550" selection-end="3550" vertical-scroll-proportion="0.0" vertical-offset="2931" max-vertical-offset="3451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="55" selection-start="5883" selection-end="5883" vertical-scroll-proportion="0.0" vertical-offset="1750" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="70" selection-start="3490" selection-end="3490" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/addProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="45" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="37" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="986">
+          <folding>
+            <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+            <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+            <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+            <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+            <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="47" selection-start="5112" selection-end="5112" vertical-scroll-proportion="0.0" vertical-offset="1329" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="32" selection-start="5556" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="11764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/jquery-ui-1.10.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="19" selection-start="1239" selection-end="1239" vertical-scroll-proportion="0.5916473" vertical-offset="0" max-vertical-offset="254830" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/checkBarCode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="27" selection-end="27" vertical-scroll-proportion="0.1356383" vertical-offset="0" max-vertical-offset="376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/displayProductsBySelectLetter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.042821158" vertical-offset="0" max-vertical-offset="397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/retrieveProductData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.042821158" vertical-offset="0" max-vertical-offset="397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/showCompleteProductName.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.040669855" vertical-offset="0" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/updateProductsInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="23" selection-end="26" vertical-scroll-proportion="0.08395062" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20077" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/displayProducts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="40" selection-end="40" vertical-scroll-proportion="0.08133971" vertical-offset="0" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/deleteProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="238" selection-end="238" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/searchProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="59" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/checkIfProductToAddAlreadyExist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="57" selection-start="723" selection-end="723" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/retrieveProductTotalPages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="237" selection-end="237" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/addStocks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="199" selection-end="208" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="651" column="9" selection-start="15976" selection-end="15976" vertical-scroll-proportion="0.3530864" vertical-offset="10924" max-vertical-offset="18037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/products/addProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="96" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/DatabaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.044270832" vertical-offset="0" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/transaction/saveTransaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/images/animated-overlay.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="457" column="9" selection-start="13339" selection-end="13339" vertical-scroll-proportion="0.35416666" vertical-offset="7633" max-vertical-offset="19142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/sales/displayTransactionRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="44" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/transaction/retrieveProducts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/transaction/getProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="46" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/ProductsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="29" selection-start="6570" selection-end="6570" vertical-scroll-proportion="0.0" vertical-offset="1541" max-vertical-offset="2601">
+          <folding>
+            <marker date="1436465970912" expanded="true" signature="350:395" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="657:742" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="1233:1285" placeholder="INSERT INTO ..." />
+            <marker date="1436465970912" expanded="true" signature="1645:1851" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="3808:3849" placeholder="DELETE FROM ..." />
+            <marker date="1436465970912" expanded="true" signature="4114:4302" placeholder="SELECT * FRO..products..." />
+            <marker date="1436465970912" expanded="true" signature="6748:6836" placeholder="SELECT COUNT..products..." />
+            <marker date="1436465970912" expanded="true" signature="7253:7405" placeholder="UPDATE produ..." />
+            <marker date="1436465970912" expanded="true" signature="7293:7323" placeholder="SELECT SUM(n..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/transaction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="327" column="49" selection-start="13852" selection-end="13852" vertical-scroll-proportion="0.0" vertical-offset="5346" max-vertical-offset="7140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sales.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="20" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.0" vertical-offset="2179" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/transaction_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="18" selection-start="1969" selection-end="1969" vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="3315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/product_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="17" selection-start="3675" selection-end="3675" vertical-scroll-proportion="0.0" vertical-offset="3419" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/sales/displayPager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="142" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/classes/Transactions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="35" selection-start="5987" selection-end="5987" vertical-scroll-proportion="-6.8461537" vertical-offset="2355" max-vertical-offset="4981">
+          <folding>
+            <marker date="1436705753952" expanded="true" signature="258:418" placeholder="SELECT produ..products..." />
+            <marker date="1436705753952" expanded="true" signature="1402:1567" placeholder="SELECT trans..sales..." />
+            <marker date="1436705753952" expanded="true" signature="2093:2316" placeholder="UPDATE produ..." />
+            <marker date="1436705753952" expanded="true" signature="2619:2673" placeholder="INSERT INTO ..." />
+            <marker date="1436705753952" expanded="true" signature="2873:2934" placeholder="INSERT INTO ..." />
+            <marker date="1436705753952" expanded="true" signature="3192:3323" placeholder="UPDATE trans..." />
+            <marker date="1436705753952" expanded="true" signature="3701:3877" placeholder="SELECT DISTI..sales..." />
+            <marker date="1436705753952" expanded="true" signature="4111:4484" placeholder="SELECT p.pro..products..." />
+            <marker date="1436705753952" expanded="true" signature="5727:5892" placeholder="SELECT COUNT..sales..." />
+            <marker date="1436705753952" expanded="true" signature="7506:7918" placeholder="SELECT month..." />
+            <marker date="1436705753952" expanded="true" signature="8508:8807" placeholder="SELECT DISTI..sales..." />
+            <marker date="1436705753952" expanded="true" signature="9129:9712" placeholder="SELECT t.tra..employees..." />
+            <marker date="1436705753952" expanded="true" signature="11318:11377" placeholder="SELECT produ..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/sales/searchTransactionRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="37" selection-start="176" selection-end="176" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/sales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="3117" selection-end="3117" vertical-scroll-proportion="-16.461538" vertical-offset="1051" max-vertical-offset="2771">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="78" selection-start="9366" selection-end="9366" vertical-scroll-proportion="-2.9423077" vertical-offset="2805" max-vertical-offset="3655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="47" selection-start="10442" selection-end="10465" vertical-scroll-proportion="0.33333334" vertical-offset="3765" max-vertical-offset="6613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

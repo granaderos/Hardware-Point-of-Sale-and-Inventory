@@ -1,0 +1,149 @@
+#transaction_record_wrapper_div{
+	width: 1000px;
+	margin: 0 auto;
+    padding-top:30px;
+    background: #f5f5f5;
+}
+.transaction_record_tbl{
+	width: 90%;
+	margin:30px auto;
+    background: #fff;
+    position:relative;
+}
+.transaction_record_tbl thead{
+    background: -webkit-linear-gradient(top, #ffffff,#cccccc);
+    background: -moz-linear-gradient(top, #ffffff,#cccccc);
+    background: -o-linear-gradient(top, #ffffff,#cccccc);
+}
+.totalIncome_tr{
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+}
+#pager_info_div{
+	padding:  13px 10px 10px 10px;
+	background: -webkit-linear-gradient(top,#ccc,#ffffff,#ccc);
+	background: -moz-linear-gradient(top,#ccc,#ffffff,#ccc);
+	background: -o-linear-gradient(top,#ccc,#ffffff,#ccc);
+	background: linear-gradient(top,#ccc,#ffffff,#ccc);
+	-moz-border-radius: 13px
+	-webkit-border-radius: 13px;
+	-o-border-radius: 13px;
+	 border-radius: 13px;
+}
+#pageLimit_form{
+	float:right;
+}
+#pageLimit_form span{
+	font-family: Cursive,sans-serif;
+	font-size: 15px;
+	line-height: 25px;
+}
+#pagination_content{
+	background-color: #ddd;
+	height:40px;
+}
+.pagination{
+    margin-left:25px;
+}
+#pager_next, #pager_prev{
+	margin-top: -23px;
+	height: 29px;
+	background-color:#fff;
+	border: none;
+}
+#pager_prev{
+	margin-right: -5px;
+	-moz-border-top-left-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-o-border-top-left-radius: 5px;
+	border-top-left-radius: 5px;
+	-moz-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-o-border-bottom-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+#pager_next{
+	margin-left: -5px;
+	-moz-border-top-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-o-border-top-right-radius: 5px;
+	border-top-right-radius: 5px;
+	-moz-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-o-border-bottom-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#currentPage_info_span{
+	margin-top: -22px;
+	margin-right: 10px;
+	font-size: 13px;
+	font-family: Cursive,sans-serif;
+
+}
+#graph-sales-container-div{
+	width: 700px;
+	height: 450px;
+	margin:35px auto 0 auto;
+	border:1px solid #0088cc;
+	padding: 0 30px;
+	background-color: #ddf1f9;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-o-border-radius: 10px;
+	display: none;
+}
+#graph-sales-div{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	margin:0 auto 100px auto;
+	padding:0 4px ;
+	background-color: deepskyblue;
+}
+#graph-toggle-div{
+	cursor:pointer;
+	float:right;
+	margin-right: 20px;
+	background: -moz-linear-gradient(top left,#0088cc,#0044cc);
+	background: -webkit-linear-gradient(top left,#0088cc,#0044cc);
+	background: -o-linear-gradient(top left,#0088cc,#0044cc);
+}
+
+#bargraph_title_p{
+    text-align: center;
+}
+#bargraph_Yr_option{
+    font-weight: bold;
+    width: 100px;
+    border:none;
+    height: 30px;
+    width: 75px;
+    margin-top:3px;
+    background-color: inherit;
+}
+
+#loading_div{
+	width:100px;
+	height: 20px;
+	text-align: center;
+	margin: 0 auto -40px auto;
+	padding: 10px;
+}
+#searchBy_select{
+    margin-top:10px;
+}
+#searchByName_select{
+    display:none;
+    margin-top:10px;
+}
+#searchBy_btn{
+	width: 150px;
+}
+#transaction_record_title_h2{
+    margin-left:15px;
+}
+
+#transactionRecordDiv {
+    display: none;
+}
